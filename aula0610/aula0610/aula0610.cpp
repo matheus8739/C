@@ -30,7 +30,7 @@ int main()
 	resultado = numero1 - numero2;
 	printf("A subtracao e: %i\n", resultado);
 	printf("==============================\n");
-douglax = (float)numero1 / numero2;
+douglax = (float)numero1 / numero1;
 	printf("A divisao e: %f\n", douglax);
 	printf("==============================\n");
 	resultado = numero1 % numero2;
